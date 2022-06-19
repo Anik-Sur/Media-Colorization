@@ -1,4 +1,4 @@
 models/colorization_release_v2.caffemodel
-__pycache__/colourizer.cpython-310.pyc
+__pycache__/
 input/
 output/
